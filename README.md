@@ -1,3 +1,9 @@
+For Inital setup of the react app to use salesforce design system react
+Refer think link:
+
+### `https://github.com/salesforce/design-system-react/blob/master/docs/create-react-app.md`
+ 
+ ==========================================================================================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
